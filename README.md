@@ -1,4 +1,4 @@
-# Hey, I'm Rajat 👋
+# Hey, I'm Rajat
 
 Final-year ECE student at GB Pant Engineering College. I got into coding properly about two years ago and haven't really stopped since.
 
